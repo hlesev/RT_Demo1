@@ -1,0 +1,23 @@
+{
+  "name": "NodeJsCppRaytracing",
+  "version": "0.0.1",
+  "description": "Node.js C++ raytracing demo by Hristo Lesev",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "raytracing",
+    "c++"
+  ],
+  "author": "Hristo Lesev",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.8.2",
+    "nan": "^2.1.0",
+    "node-png": "^0.4.3",
+    "socket.io": "^1.0.6"
+  }
+}
